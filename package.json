@@ -1,0 +1,19 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "use firebase to login and register user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aashhshah/electronlogin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aashhshah/electronlogin/issues"
+  },
+  "homepage": "https://github.com/aashhshah/electronlogin#readme"
+}
